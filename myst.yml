@@ -1,7 +1,7 @@
 # See docs at: https://mystmd.org/guide/frontmatter
 version: 1
 project:
-  title: artoflarsik
+  title: Алгоритмы в линейной алгебре
   # description:
   keywords: []
   authors: []
@@ -9,11 +9,13 @@ project:
   # bibliography: []
 site:
   template: book-theme
-  # title:
+  title: Алгоритмы в линейной алгебре
   # options:
   #   logo: site_logo.png
   nav: []
   actions:
-    - title: Learn More
-      url: https://mystmd.org/guide
+    - title: Автор коллаборации
+      url: https://t.me/Kiara_Infinita
+    - title: Тех поддержка
+      url: https://t.me/artoftheblue
   domains: []
