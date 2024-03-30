@@ -1,9 +1,0 @@
-format: jb-book
-root: README
-parts:
-  - caption: Алгоритмы
-    chapters:
-      - file: 01-quadratic-form-matrix
-  - caption: Контрольные работы
-    chapters:
-      - file: 07-mappings
