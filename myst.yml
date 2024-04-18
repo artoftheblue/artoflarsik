@@ -7,6 +7,15 @@ project:
   authors: []
   github: https://github.com/executablebooks/mystmd-quickstart
   # bibliography: []
+  math:
+    '\ebase': '\mathbf{e}'
+    '\phi': '\varphi' 
+    '\leq': '\leqslant'
+    '\R': '\mathbb{R}'
+    '\Im': '\operatorname{Im}'
+    '\tr': '\operatorname{tr}'
+    '\eps': '\varepsilon'
+
 site:
   template: book-theme
   title: Алгоритмы в линейной алгебре

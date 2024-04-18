@@ -1,0 +1,6 @@
+format: jb-book
+root: README
+parts:
+  - caption: Test
+    chapters: 
+      - file: 01-control-test-1
