@@ -1,10 +1,3 @@
----
-math:
-  '\pr': '\text{pr}'
-  '\ort': '\text{ort}'
-  '\Vol': '\text{Vol}\,'
----
-
 # Алгоритмы в линейной алгебре
 
 :::{seealso}

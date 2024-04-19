@@ -15,6 +15,9 @@ project:
     '\Im': '\operatorname{Im}'
     '\tr': '\operatorname{tr}'
     '\eps': '\varepsilon'
+    '\pr': '\text{pr}'
+    '\ort': '\text{ort}'
+    '\Vol': '\operatorname{Vol}'
 
 site:
   template: book-theme
