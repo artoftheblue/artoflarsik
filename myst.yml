@@ -19,8 +19,8 @@ project:
 site:
   template: book-theme
   title: Алгоритмы в линейной алгебре
-  # options:
-  #   logo: site_logo.png
+  options:
+    logo: site_logo.png
   nav: []
   actions:
     - title: Автор коллаборации
