@@ -3,4 +3,5 @@ root: README
 parts:
   - caption: Test
     chapters: 
+      - file: 00-analytical-geometry
       - file: 01-control-test-1
