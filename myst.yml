@@ -24,6 +24,7 @@ site:
   title: Алгоритмы в линейной алгебре
   options:
     logo: site_logo.png
+    favicon: download.ico
   nav: []
   actions:
     - title: Автор коллаборации
