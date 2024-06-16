@@ -5,3 +5,4 @@ parts:
     chapters: 
       - file: 00-analytical-geometry
       - file: 01-control-test-1
+      - file: exam
